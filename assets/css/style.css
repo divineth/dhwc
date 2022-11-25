@@ -1007,7 +1007,7 @@ background-color: rgba(0, 0, 0, 0.6);}
   line-height: 18px;
   font-weight: 400;
   position: relative;
-  color: var(--e-global-color-secondary);
+  color: #090B61;
   padding: 18px 38px;
   border-radius: 50px;
   text-align: center;
@@ -1022,8 +1022,8 @@ background-color: rgba(0, 0, 0, 0.6);}
   padding: 2px;
   background: linear-gradient(
     90deg,
-    var(--e-global-color-accent) 0%,
-    var(--e-global-color-soft-red) 100%
+    #ffd500 0%,
+    #ffd500 100%
   );
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -1037,8 +1037,8 @@ background-color: rgba(0, 0, 0, 0.6);}
 .pricing_tables_box_lower_portion:hover .join_now_btn {
   background-image: linear-gradient(
     90deg,
-    var(--e-global-color-accent) 0%,
-    var(--e-global-color-soft-red) 100%
+    #090B61 0%,
+    #090B61 100%
   );
   border-radius: 50px;
   color: var(--e-global-color-white);
@@ -1648,7 +1648,7 @@ textarea {
 }
 .sub-banner_aboutus_content h5 {
   margin-bottom: 18px;
-  color: var(--e-global-color-secondary);
+  color: #090B61;
   letter-spacing: 7.6px;
 }
 .sub-banner_aboutus_content h2 {
@@ -1699,7 +1699,7 @@ textarea {
 /* About Page Statistics Section Style */
 
 .stats_section {
-  background-image: url("../images/stats_background.png");
+  background-image: url("../images/quote_background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
