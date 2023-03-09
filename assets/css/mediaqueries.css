@@ -150,7 +150,7 @@
     .banner-section-content .btn_wrapper .join_now_btn {
         font-size: 18px;
         line-height: 18px;
-        padding: 18px 75px 18px 28px;
+        padding: 18px 28px 18px 28px;
     }
     .banner-section-content .join_now_btn i {
         line-height: 38px;
@@ -1143,7 +1143,7 @@
     .banner-section-content .btn_wrapper .join_now_btn {
         font-size: 16px;
         line-height: 16px;
-        padding: 16px 65px 16px 22px;
+        padding: 16px 22px 16px 22px;
     }
     .banner-section-content .join_now_btn i {
         line-height: 34px;
@@ -1984,7 +1984,7 @@
         margin-bottom: 22px;
     }
     .banner-section-content .btn_wrapper .join_now_btn {
-        padding: 14px 60px 14px 18px;
+        padding: 14px 18px 14px 18px;
     }
     .banner-section-content .join_now_btn i {
         line-height: 30px;
@@ -2835,7 +2835,7 @@
 
  @media screen and (max-width: 575px){
     .banner-section-outer {
-        background-size: auto;
+        background-size: cover;
     }
 
     .navbar-collapse {
@@ -2870,7 +2870,7 @@
     .banner-section-content .btn_wrapper .join_now_btn {
         font-size: 14px;
         line-height: 14px;
-        padding: 12px 50px 12px 15px;
+        padding: 12px 15px 12px 15px;
     }
     .banner-section-content .join_now_btn i {
         line-height: 25px;
