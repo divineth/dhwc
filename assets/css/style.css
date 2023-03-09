@@ -279,7 +279,7 @@ p {
   font-weight: 400;
   font-size: 20px;
   line-height: 20px;
-  padding: 20px 80px 20px 32px;
+  padding: 20px 32px 20px 32px;
   text-align: center;
   color: var(--e-global-color-white);
   border: 2px solid var(--e-global-color-very-dark-grayish);
@@ -307,9 +307,9 @@ p {
   line-height: 42px;
   height: 42px;
   width: 52px;
-  position: absolute;
+  /* position: absolute;
   left: 158px;
-  top: 11px;
+  top: 11px; */
   background-image: linear-gradient(
     -82deg,
     #090B61 0%,
